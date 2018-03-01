@@ -16,4 +16,4 @@ Antes de lanzarnos a programar en este lenguaje, aquí podrás encontrar algunas
 
   ##
 
-  ![Características](./fotos/foto.png) 
+  ![Características](./fotos/fotos.png) 
