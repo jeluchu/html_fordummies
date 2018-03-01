@@ -125,4 +125,4 @@ Se utiliza para incluir elementos escritos en un lenguaje de cliente para comple
 </p>
 ```
 ##
-  ![Etiquetas](./fotos/foto.png) 
+  ![Etiquetas](./fotos/fotos.png) 
