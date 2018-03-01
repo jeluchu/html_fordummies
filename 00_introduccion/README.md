@@ -27,8 +27,6 @@ La estructura simple que se usa es la siguiente:
 	- **Locales:** Enlaces a lugares del mismo documento
 	- **Externos:** Enlaces a otros documentos del mismo servidor o de otro distinto
 
-
-
+##
 
   ![Introducción](./fotos/foto.png)
-  
