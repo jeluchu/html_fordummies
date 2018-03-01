@@ -26,8 +26,8 @@ Como por ejemplo ```<br> ó <br/>```
 Las etiquetas de un documento HTML pueden contener atributos que son **una serie de valores que harán que los efectos que producen las etiquetas varíen,** ya sean colores, alineación, estilos, etc. Los atributos se especifican:
 ```
 <etiqueta atributo1=”valor1"
-		  atributo2=”valor2”>
-	Bloque de la etiqueta
+	  atributo2=”valor2”>
+     Bloque de la etiqueta
 </etiqueta>
 ```
 Un ejemplo sencillo de esto podríamos decir que sería el siguiente:
