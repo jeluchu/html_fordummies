@@ -1,5 +1,9 @@
+p{
+	font-size: 20pt;
+	color: green;
+	font-family: Arial;
+	font-weight: bold;
+}
 img{
 	background: blue;
-	font-size: 20pt;
-	font-family: Arial;
 }
