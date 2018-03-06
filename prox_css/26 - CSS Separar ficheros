@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Redefinición de etiquetas</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="estiloSeparado.css">
+</head>
+<body>
+	<h1>HTML</h1>
+	<p align="right">El lenguaje HTML es una tecnología que usa otros lenguajes como:</p>
+		<h2>Javascript</h2>
+		<h3>PHP</h3>
+		<h2>CSS</h2>
+	<h1>Lenguaje C</h1>
+	<p>El lenguaje C es un lenguaje de programación estructurado:</p>
+		<h2>C++</h2>
+		<h3>C#</h3>
+</body>
+</html>
