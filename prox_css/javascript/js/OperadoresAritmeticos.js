@@ -26,4 +26,10 @@ function CalcularOperadores () {
 	miParrafo.innerHTML +=
 		"Dividiendo los numeros 34 y 6 = " + valor + "<br>";
 
+	valor = 8;
+	miParrafo.innerHTML +=
+		"Sumando valor = " + (++valor) + "<br>";
+	miParrafo.innerHTML +=
+		"Sumando valor = " + (++valor) + "<br>";
+
 }
