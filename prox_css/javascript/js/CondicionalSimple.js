@@ -9,6 +9,9 @@ function CalcularEtapa() {
 	valorEdad = campoEdad.value;
 	campoResultado.innerHTML = "Tu etapa es: ";
 
+	if (valorEdad > 120)
+		campoResultado.innerHTML += "No existe nadie con más vida";
+	else
 	if (valorEdad >= 23)
 		campoResultado.innerHTML += "Adulto";
 	else
@@ -23,4 +26,6 @@ function CalcularEtapa() {
 	else
 	if (valorEdad < 0)
 		campoResultado.innerHTML += "Estás intentando jugar con el programa";
+	else
+		campoResultado.innerHTML += "Deja de intentar fastidiar el programa";
 }
